@@ -2,6 +2,8 @@
 
 Organization by @metagn for general purpose Nim libraries deemed good enough for other people to use. Purpose is both as a quality seal, and so that I am not a chokepoint and other people can take over if development stalls on a project.
 
+None of the libraries are stable, especially anything without tagged releases. But still, only libraries that have a purpose are included, no experiments or demos.
+
 ## Libraries
 
 ### Data handling
