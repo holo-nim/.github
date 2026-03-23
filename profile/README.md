@@ -6,6 +6,12 @@ None of the libraries are stable, especially anything without tagged releases. B
 
 ## Libraries
 
+### Language features
+
+| library | description |
+| --: | --- |
+| [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
+
 ### Data handling
 
 | library | description |
