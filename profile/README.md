@@ -20,5 +20,6 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
 | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
+| [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 
 Candidate future libraries: https://github.com/orgs/holo-nim/discussions/1
