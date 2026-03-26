@@ -21,5 +21,6 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
 | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
 | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
+| [grime](https://github.com/holo-nim/grime) | binary serialization |
 
 Candidate future libraries: https://github.com/orgs/holo-nim/discussions/1
