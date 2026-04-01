@@ -6,6 +6,16 @@ None of the libraries are stable, especially anything without tagged releases. B
 
 ## Libraries
 
+### Data handling
+
+| library | description |
+| --: | :-- |
+| [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
+| [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
+| [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
+| [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
+| [grime](https://github.com/holo-nim/grime) | binary serialization |
+
 ### Language features
 
 | library | description |
@@ -13,14 +23,10 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | [skinsuit](https://github.com/holo-nim/skinsuit) | utility macros mostly for object variants |
 
-### Data handling
+### Macro tools
 
 | library | description |
 | --: | :-- |
-| [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
-| [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
-| [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
-| [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
-| [grime](https://github.com/holo-nim/grime) | binary serialization |
+| [glaze](https://github.com/holo-nim/glaze) | typed NimNode serialization/deserialization |
 
 Candidate future libraries: https://github.com/orgs/holo-nim/discussions/1
