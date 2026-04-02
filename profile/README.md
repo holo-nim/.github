@@ -12,7 +12,7 @@ None of the libraries are stable, especially anything without tagged releases. B
 | --: | :-- |
 | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
-| [flue](https://github.com/holo-nim/flue) | buffered stream library |
+| [flue](https://github.com/holo-nim/flue) | data streaming |
 | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | [grime](https://github.com/holo-nim/grime) | binary serialization |
 
