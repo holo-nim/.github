@@ -26,6 +26,7 @@ None of the libraries are stable, especially anything without tagged releases. B
 
 | library | description |
 | --: | :-- |
+| [keten](https://github.com/holo-nim/keten) | relational compile time accumulator |
 | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | [skinsuit](https://github.com/holo-nim/skinsuit) | utility macros mostly for object variants |
 | [spread](https://github.com/holo-nim/spread) | block syntax for calls/literals/constructors |
