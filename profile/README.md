@@ -16,19 +16,19 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | [grime](https://github.com/holo-nim/grime) | binary serialization |
 
-### Macro tools
-
-| library | description |
-| --: | :-- |
-| [glaze](https://github.com/holo-nim/glaze) | typed NimNode serialization/deserialization |
-
 ### Language features
 
 | library | description |
 | --: | :-- |
 | [ketin](https://github.com/holo-nim/ketin) | relational compile time accumulator |
 | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
-| [skinsuit](https://github.com/holo-nim/skinsuit) | utility macros mostly for object variants |
+| [skinsuit](https://github.com/holo-nim/skinsuit) | utility macros for objects and object variants |
 | [spread](https://github.com/holo-nim/spread) | block syntax for calls/literals/constructors |
+
+### Macro tools
+
+| library | description |
+| --: | :-- |
+| [glaze](https://github.com/holo-nim/glaze) | typed NimNode serialization/deserialization |
 
 Candidate future libraries: https://github.com/orgs/holo-nim/discussions/1
