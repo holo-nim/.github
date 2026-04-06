@@ -30,5 +30,6 @@ None of the libraries are stable, especially anything without tagged releases. B
 | library | description |
 | --: | :-- |
 | [glaze](https://github.com/holo-nim/glaze) | typed NimNode serialization/deserialization |
+| [nuance](https://github.com/holo-nim/nuance) | runtime support for untyped NimNodes |
 
 Candidate future libraries: https://github.com/orgs/holo-nim/discussions/1
