@@ -13,8 +13,8 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
 | [fleu](https://github.com/holo-nim/fleu) | data streaming |
-| [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | [grime](https://github.com/holo-nim/grime) | binary serialization |
+| [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 
 ### Language features
 
