@@ -10,7 +10,7 @@ None of the libraries are stable, especially anything without tagged releases. B
 
 | library | description |
 | --: | :-- |
-| [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
+| [holo-json](https://github.com/holo-nim/holo-json) | json for applications based on jsony |
 | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
 | [fleu](https://github.com/holo-nim/fleu) | data streaming |
 | [grime](https://github.com/holo-nim/grime) | binary serialization |
