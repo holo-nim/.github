@@ -15,6 +15,7 @@ None of the libraries are stable, especially anything without tagged releases. B
 | [fleu](https://github.com/holo-nim/fleu) | data streaming |
 | [grime](https://github.com/holo-nim/grime) | binary serialization |
 | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
+| [froth](https://github.com/holo-nim/froth) | tagged pointer types with destructors |
 
 ### Language features
 
